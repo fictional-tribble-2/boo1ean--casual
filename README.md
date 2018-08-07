@@ -1,4 +1,4 @@
-## Fake data generator [![Build Status](https://travis-ci.org/boo1ean/casual.svg?branch=master)](https://travis-ci.org/boo1ean/casual) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/boo1ean--casual.svg)](https://www.staging.guardrails.io)
+## Fake data generator [![Build Status](https://travis-ci.org/boo1ean/casual.svg?branch=master)](https://travis-ci.org/boo1ean/casual) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/boo1ean--casual.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/boo1ean--casual.svg)](https://www.guardrails.io)
 
 ## Installation
 
